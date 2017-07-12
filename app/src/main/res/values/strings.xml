@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Boilerplate</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_hotel">ListActivity</string>
+    <string name="title_activity_booking">DetailActivity</string>
+</resources>
