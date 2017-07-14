@@ -8,7 +8,7 @@ This is is an Android boilerplate that allows developers to use as a skelton for
 License
 -------
 
-    Copyright 2017 Wasabeef
+    Copyright 2017 Boilerplate
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
